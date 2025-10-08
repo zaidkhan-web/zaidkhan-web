@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full-stack developer from Pakistan</h3>
 
 # 💫 About Me:
-Hello, I’m Zaid Khan<br><br>I’m a Full Stack Web Developer passionate about creating modern, scalable, and responsive web applications.<br>I’m currently working on building applications using React.js, Node.js, and Supabase.<br>I’m looking to collaborate on full-stack projects and open-source applications.<br>I’m exploring AI-powered integrations in web development to make apps smarter and more interactive.<br>I’m continuously expanding my skills through real-world projects and research.<br>Ask me about JavaScript, TypeScript, Python, React.js, Next.js, Node.js, Express.js, Supabase, Firebase, MongoDB, PostgreSQL, Tailwind CSS, and Material UI.<br>Fun fact: I love turning ideas into functional, user-friendly digital solutions.
+<br>I’m a Full Stack Web Developer passionate about creating modern, scalable, and responsive web applications.<br>I’m currently working on building applications using React.js, Node.js, and Supabase.<br>I’m looking to collaborate on full-stack projects and open-source applications.<br>I’m exploring AI-powered integrations in web development to make apps smarter and more interactive.<br>I’m continuously expanding my skills through real-world projects and research.<br>Ask me about JavaScript, TypeScript, Python, React.js, Next.js, Node.js, Express.js, Supabase, Firebase, MongoDB, PostgreSQL, Tailwind CSS, and Material UI.<br>Fun fact: I love turning ideas into functional, user-friendly digital solutions.
 
 
 ## 🌐 Socials:
