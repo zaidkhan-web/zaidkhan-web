@@ -1,8 +1,16 @@
 <h1 align="center">Hi 👋, I'm Zaid Khan</h1>
-<h3 align="center">A passionate full-stack developer from Pakistan</h3>
+<h3 align="center">A passionate full-stack & Python developer from Pakistan</h3>
+
 
 # 💫 About Me:
-<br>I’m a Full Stack Web Developer passionate about creating <b>modern</b>, <b>scalable</b>, and <b>responsive</b> web applications.<br>I’m currently working on building applications using <b>React.js</b>, <b>Node.js</b>, and <b>Python</b>.<br>I’m looking to collaborate on full-stack projects and open-source applications.<br>I’m exploring AI-powered integrations in web development to make apps smarter and more interactive.<br>I’m continuously expanding my skills through real-world projects and research.<br>Ask me about <b>JavaScript</b>, <b>TypeScript</b>, <b>Python</b>, <b>React.js</b>, <b>Next.js</b>, <b>Node.js</b>, <b>Express.js</b>, <b>Supabase</b>, <b>Firebase</b>, <b>MongoDB</b>, <b>PostgreSQL</b>, <b>Tailwind CSS</b>, and <b>Material UI</b>.<br>Fun fact: I love turning ideas into functional, user-friendly digital solutions.
+<br>I’m a Full Stack Web Developer passionate about creating <b>modern</b>, <b>scalable</b>, and <b>responsive</b> web applications.<br>
+I’m currently working on building applications using <b>React.js</b>, <b>Node.js</b>, <b>Python</b>, and exploring <b>Machine Learning</b>.<br>
+I’m looking to collaborate on full-stack projects and open-source applications.<br>
+I’m exploring <b>AI-powered</b> and <b>Machine Learning</b> integrations in web development to make apps smarter and more interactive.<br>
+I’m continuously expanding my skills through real-world projects and research.<br>
+Ask me about <b>JavaScript</b>, <b>TypeScript</b>, <b>Python</b>, <b>React.js</b>, <b>Next.js</b>, <b>Node.js</b>, <b>Express.js</b>, <b>Supabase</b>, <b>Firebase</b>, <b>MongoDB</b>, <b>PostgreSQL</b>, <b>Tailwind CSS</b>, <b>Material UI</b>, and <b>Machine Learning</b>.<br>
+Fun fact: I love turning ideas into functional, user-friendly digital solutions.
+
 
 
 ## 🌐 Socials:
